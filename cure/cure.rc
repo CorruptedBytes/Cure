@@ -50,7 +50,7 @@ END
 // WAVE
 //
 
-IDR_WAVE1               WAVE                    "C:\\Users\\Alexander\\Desktop\\cure.wav"
+IDR_WAVE1               WAVE                    "cure.wav"
 
 
 #endif
